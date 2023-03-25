@@ -10,8 +10,8 @@ function generate(){
     document.getElementById('captchaimg').setAttribute("src", img)
 }
 
-var email=["dhanushkumark14@gmail.com"]
-var password=["Dhanu14"]
+var email=["yourname14@gmail.com"]
+var password=["yourwish"]
 
 function choose(){
     for (var i=0; i<email.length; i++){
